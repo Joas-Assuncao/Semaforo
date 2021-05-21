@@ -1,0 +1,135 @@
+:root {
+    --white: #FFF;
+    --black: #000;
+
+    --red: #ff0000;
+    --yellow: #ffff00;
+    --green: #00ff00;
+    --blue: blue;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: #000 url('./images/rua_background.jpg') no-repeat;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: var(--white);
+}
+
+#trafficLight {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 25rem;
+    width: 15rem;
+    border-radius: 12.5rem 12.5rem 15rem 15rem;
+    background: var(--black);
+}
+
+.lightRed {
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+
+    background: var(--red);
+
+    box-shadow: 0 0 15px var(--red);
+}
+
+.lightYellow {
+    height: 5.5rem;
+    width: 5.5rem;
+    border-radius: 50%;
+
+    background: var(--yellow);
+
+    box-shadow: 0 0 15px var(--yellow);
+}
+
+.lightGreen {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+
+    background: var(--green);
+
+    box-shadow: 0 0 15px var(--green);
+}
+
+footer {
+    padding-top: 1rem;
+}
+
+button {
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    
+    border-radius: .7rem;
+    border: 1px solid var(--black);
+
+    cursor: pointer;
+
+    transition: .3s;
+}
+
+#buttonRed {
+    background: var(--red);
+    color: var(--white);
+}
+
+#buttonRed:hover {
+    border: none;
+    box-shadow: 0 0 15px var(--red);
+}
+
+#buttonYellow {
+    background: var(--yellow);
+    color: rgb(255, 255, 255);
+}
+
+#buttonYellow:hover {
+    border: none;
+    box-shadow: 0 0 15px var(--yellow);
+}
+
+#buttonGreen {
+    background: var(--green);
+    color: var(--white);
+}
+
+#buttonGreen:hover {
+    border: none;
+    box-shadow: 0 0 15px var(--green);
+}
+
+#buttonAuto {
+    background: var(--black);
+    color: var(--white);
+}
+
+#buttonAuto:hover {
+    border: none;
+    box-shadow: 0 0 15px var(--black);
+}
+
+#buttonOff {
+    background: var(--blue);
+    color: var(--white);
+}
+
+#buttonOff:hover {
+    border: none;
+    box-shadow: 0 0 15px var(--blue);
+}
+
+.offLight {
+    box-shadow: none;
+    opacity: .3;
+}
