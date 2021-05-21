@@ -25,3 +25,8 @@ Depois fui para as funções gerais e, ja estava na mente fazer a função de lo
 <img src="./images/codigo_javascript_geral.jpeg">
 
 Como sempre, deu alguns probleminhas para fazer (principalmente o loop), mas felizmente saiu como eu esperava e consegui mais um projeto para meu portfólio.
+
+
+## Link aplicação (hospedado no netlify):
+
+https://serene-ptolemy-567d4e.netlify.app/
