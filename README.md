@@ -17,11 +17,11 @@ Comecei com o html e css e fiz algo simples, um h1, o semáforo e os buttons. (O
 
 Comecei pelas variáveis...
 
-<img src="./codigo_variaves.jpeg">
+<img src="./images/codigo_variaves.jpeg">
 
 Depois fui para as funções gerais e, ja estava na mente fazer a função de loop fora (as duas abaixo)
 
-<img src="codigo_loop.jpeg">
-<img src="codigo_javascript_geral.jpeg">
+<img src="./images/codigo_loop.jpeg">
+<img src="./images/codigo_javascript_geral.jpeg">
 
 Como sempre, deu alguns probleminhas para fazer (principalmente o loop), mas felizmente saiu como eu esperava e consegui mais um projeto para meu portfólio.
