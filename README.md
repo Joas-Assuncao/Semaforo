@@ -17,7 +17,7 @@ Comecei com o html e css e fiz algo simples, um h1, o semáforo e os buttons. (O
 
 Comecei pelas variáveis...
 
-<img src="./images/codigo_variaves.jpeg">
+<img src="./images/codigo_variaveis.jpeg">
 
 Depois fui para as funções gerais e, ja estava na mente fazer a função de loop fora (as duas abaixo)
 
