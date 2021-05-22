@@ -27,6 +27,6 @@ Depois fui para as funções gerais e, ja estava na mente fazer a função de lo
 Como sempre, deu alguns probleminhas para fazer (principalmente o loop), mas felizmente saiu como eu esperava e consegui mais um projeto para meu portfólio.
 
 
-## Link aplicação (hospedado no netlify):
+## Link aplicação (hospedado no Netlify):
 
 https://serene-ptolemy-567d4e.netlify.app/
